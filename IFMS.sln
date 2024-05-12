@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFMS", "IFMS\IFMS.csproj", "{9BCF023A-4487-4776-8178-FEE2CF6BCF5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D758AC1-C65A-461F-867D-4EAC4D447F43}"
+	ProjectSection(SolutionItems) = preProject
+		golButton.cs = golButton.cs
+		golButton.resx = golButton.resx
+		IFMS\roundText.cs = IFMS\roundText.cs
+		IFMS\roundText.resx = IFMS\roundText.resx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BCF023A-4487-4776-8178-FEE2CF6BCF5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCF023A-4487-4776-8178-FEE2CF6BCF5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCF023A-4487-4776-8178-FEE2CF6BCF5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCF023A-4487-4776-8178-FEE2CF6BCF5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

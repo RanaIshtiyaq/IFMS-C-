@@ -1,0 +1,56 @@
+c:\users\desire\documents\visual studio 2012\Projects\IFMS\IFMS\bin\Debug\IFMS.exe.config
+c:\users\desire\documents\visual studio 2012\Projects\IFMS\IFMS\bin\Debug\IFMS.exe
+c:\users\desire\documents\visual studio 2012\Projects\IFMS\IFMS\bin\Debug\IFMS.pdb
+c:\users\desire\documents\visual studio 2012\Projects\IFMS\IFMS\obj\Debug\IFMS.csprojResolveAssemblyReference.cache
+c:\users\desire\documents\visual studio 2012\Projects\IFMS\IFMS\obj\Debug\IFMS.Properties.Resources.resources
+c:\users\desire\documents\visual studio 2012\Projects\IFMS\IFMS\obj\Debug\IFMS.csproj.GenerateResource.Cache
+c:\users\desire\documents\visual studio 2012\Projects\IFMS\IFMS\obj\Debug\IFMS.exe
+c:\users\desire\documents\visual studio 2012\Projects\IFMS\IFMS\obj\Debug\IFMS.pdb
+c:\users\desire\documents\visual studio 2012\Projects\IFMS\IFMS\obj\Debug\IFMS.Dashbord.resources
+c:\users\desire\documents\visual studio 2012\Projects\IFMS\IFMS\obj\Debug\IFMS.Login.resources
+E:\IFMS\IFMS\bin\Debug\IFMS.exe.config
+E:\IFMS\IFMS\obj\Debug\IFMS.exe
+E:\IFMS\IFMS\obj\Debug\IFMS.pdb
+E:\IFMS\IFMS\bin\Debug\IFMS.exe
+E:\IFMS\IFMS\bin\Debug\IFMS.pdb
+E:\IFMS\IFMS\obj\Debug\IFMS.Dashbord.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.Login.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.Properties.Resources.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.csproj.GenerateResource.Cache
+E:\IFMS\IFMS\obj\Debug\IFMS.Purchase.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.ProductType.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.Product.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.CompanyPurchase.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.Vehicle.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.Weight.resources
+G:\IFMS\IFMS\obj\Debug\IFMS.CompanyPurchase.resources
+G:\IFMS\IFMS\obj\Debug\IFMS.Dashbord.resources
+G:\IFMS\IFMS\obj\Debug\IFMS.Login.resources
+G:\IFMS\IFMS\obj\Debug\IFMS.Product.resources
+G:\IFMS\IFMS\obj\Debug\IFMS.ProductType.resources
+G:\IFMS\IFMS\obj\Debug\IFMS.Properties.Resources.resources
+G:\IFMS\IFMS\obj\Debug\IFMS.Vehicle.resources
+G:\IFMS\IFMS\obj\Debug\IFMS.Weight.resources
+G:\IFMS\IFMS\obj\Debug\IFMS.csproj.GenerateResource.Cache
+G:\IFMS\IFMS\bin\Debug\IFMS.exe.config
+G:\IFMS\IFMS\bin\Debug\IFMS.exe
+G:\IFMS\IFMS\bin\Debug\IFMS.pdb
+G:\IFMS\IFMS\obj\Debug\IFMS.exe
+G:\IFMS\IFMS\obj\Debug\IFMS.pdb
+G:\IFMS\IFMS\obj\Debug\IFMS.Purchase.resources
+G:\IFMS\IFMS\obj\Debug\IFMS.Sale.resources
+G:\IFMS\IFMS\obj\Debug\IFMS.csprojResolveAssemblyReference.cache
+G:\IFMS\IFMS\obj\Debug\IFMS.Employee.resources
+G:\IFMS\IFMS\obj\Debug\IFMS.EmpAttendance.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.EmpAttendance.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.Employee.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.Sale.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.VehicleRep.resources
+E:\IFMS\IFMS\obj\Debug\RdlCompile.cache
+E:\IFMS\IFMS\obj\Debug\RdlCompile.compiled
+E:\IFMS\IFMS\obj\Debug\IFMS.WeightRep.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.SaleRep.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.PurchaseRep.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.EmpAtten.resources
+E:\IFMS\IFMS\obj\Debug\IFMS.EmployeeRep.resources
+E:\IFMS\IFMS\obj\Debug\Real_Estate_Management_System.roundText.resources
